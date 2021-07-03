@@ -20,7 +20,6 @@ colorama==0.4.4
 DateTime==4.3
 discord==1.0.1
 discord-buttons==0.5
-discord-ext-menus==0.0.1
 discord-flags==2.1.1
 discord-py-slash-command==1.2.2
 discord.py==1.7.1
