@@ -29,7 +29,7 @@ from discord.ext.commands.errors import ExtensionAlreadyLoaded
 
 bot = discord.Client()
 
-token = "ODUxNDU0MTU5OTg2MjI5Mjc3.YL4geg._dXoLLFOmvkkeulJ2zvZwQtszgc" 
+token = "" 
 
 bot = commands.Bot(command_prefix = ".")
 
